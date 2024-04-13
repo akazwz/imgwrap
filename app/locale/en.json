@@ -1,0 +1,9 @@
+{
+  "lang": "English",
+  "home": "Home",
+  "about": "About",
+  "drop_images_here": "Drop images here to start",
+  "or_use_the_browse_button": "or use the browse button",
+  "browse": "Browse",
+  "about_page": "IMGWRAP is a straightforward image hosting service currently under development, set to be enhanced with additional features. It is built using Remix and Cloudflare, enabling users to upload and share images easily. This service is free and open-source, with the source code accessible via the right header link for those interested in deploying their own instance. If you find it useful, consider giving it a star on GitHub. For any questions or suggestions, please feel free to create an issue on GitHub."
+}
