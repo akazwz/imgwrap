@@ -1,10 +1,10 @@
-export default function getLocale(lang?: string) {
+export default async function getLocale(lang?: string) {
   switch (lang) {
     case "en":
-      return import("./en.json");
+      return (await import("./en.json")).default;
     case "zh":
-      return import("./zh.json");
+      return (await import("./zh.json")).default;
     default:
-      return import("./en.json");
+      return (await import("./en.json")).default;
   }
 }

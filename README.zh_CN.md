@@ -15,5 +15,3 @@
 <div>
     <img src="docs/images/zh.png" alt="imgwrap"/>
 </div>
-
-
